@@ -1,0 +1,21 @@
+{
+    "name": "bmsrox/easy-peasy-basic",
+    "description": "Basic Project Template",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Bruno Marinho",
+            "email": "bmsrox@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {
+      "bmsrox/easy-peasy": "*"
+    }
+}
